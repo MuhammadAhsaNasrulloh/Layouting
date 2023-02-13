@@ -1,0 +1,108 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  width: 100%;
+  height: 100px;
+  background: #1a2238;
+}
+
+.nav {
+  width: 50%;
+  height: 200px;
+  background: #ff0;
+  float: left;
+}
+
+.side {
+  width: 50%;
+  height: 200px;
+  background: #0ff;
+  float: left;
+}
+
+.body {
+  width: 100%;
+  height: 50px;
+  background: #be2cbe;
+  float: right;
+}
+
+.main-2 {
+  width: 33.3%;
+  height: 200px;
+  background: #0f0;
+  float: left;
+}
+
+.div {
+  width: 33.3%;
+  height: 200px;
+  background: #f0f;
+  float: left;
+}
+.div2 {
+  width: 33.3%;
+  height: 200px;
+  background: #0f0;
+  float: right;
+}
+
+.main-bar {
+  width: 100%;
+  height: 50px;
+  background: #fdfdfd;
+  clear: both;
+}
+.div3 {
+  width: 25%;
+  height: 100px;
+  background: #adadad;
+  float: left;
+}
+.div4 {
+  width: 25%;
+  height: 100px;
+  background: #bcbcbc;
+  float: left;
+}
+.div5 {
+  width: 25%;
+  height: 100px;
+  background: rgb(17, 104, 255);
+  float: right;
+}
+.div6 {
+  width: 25%;
+  height: 100px;
+  background: #45f6a9;
+  float: right;
+}
+.div7 {
+  width: 25%;
+  height: 50px;
+  background: #1a2238;
+  float: left;
+}
+.div8 {
+  width: 75%;
+  height: 50px;
+  background-color: #ff0;
+  float: right;
+}
+.div9 {
+  width: 75%;
+  height: 50px;
+  background-color: #f0f;
+  float: left;
+}
+.div10 {
+  width: 25%;
+  height: 50px;
+  background-color: #bcbcbc;
+  float: right;
+}
